@@ -1,4 +1,3 @@
-const express = require("express");
 const Login = require("../login/loginModel");
 const bcrypt = require("bcryptjs");
 
